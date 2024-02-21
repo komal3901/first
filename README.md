@@ -1,1 +1,1 @@
-I am stuent of computer science
+I am student of computer science
